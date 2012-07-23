@@ -1,0 +1,3 @@
+stop getftw
+start getftw
+exit
